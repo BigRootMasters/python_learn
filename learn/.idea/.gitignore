@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\kuan\Desktop\python\python_learn\learn\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# dir 不需要提交的目录
+/node_modules
+# file 不需要提交的文件
+config.ini
+# log 不需要提交的任意包含后缀名为log的文件
+*.log
+# Package Files 不需要提交的任意包含后缀名为jar的文件
+*.jar
